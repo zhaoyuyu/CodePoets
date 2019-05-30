@@ -4,7 +4,7 @@
 
 ## 最近学习的知识
 
-### 自学ReactNative的历程
+自学ReactNative的历程
 
 1. [搭建环境开发环境](https://github.com/zhaoyuyu/CodePoets/blob/master/搭建开发环境.md)
 2. [示例教程](https://github.com/zhaoyuyu/CodePoets/blob/master/示例教程.md)
