@@ -4,7 +4,7 @@
 
 启动图的适配是一个头疼的问题，尤其是对于同时适用iPhone,iPad的APP来说。苹果发布了iPad Pro (11-inch)，iPad Pro(12.0-inch) 之后，我发现我的app出现了**上下黑边**，遇到这个问题，我第一反应想到的就是在**Asset catalog**中的LaunchImage里面设置，但是我发现**Asset catalog**里面的**launchImage** 里面根本就没有针对`iPad Pro (11-inch)  iPad Pro (12.0-in) (3rd generation)` 启动图的设置，针对iPad的启动图的设置只有一个
 
-## 解决方案尝试
+## 解决方案
 
 有2种方法可以尝试，本文推荐第二种，图片不会拉升，你也可以尝试第一种
 1. 使用LanchScreen.storyBoard来设置
@@ -191,6 +191,6 @@ Default-828h@2x.png	  | 828 × 1792  |
 Default~ipad-1112h.png	  | 834 × 1112  | 
 Default~ipad@2x.png   | 1536 × 2048  | 
 
-#### 运行
+#### 检查并运行你的项目
 
 如果你觉得这篇文章能帮助你解决问题，请给我[star](http://www.baidu.com)!!!
