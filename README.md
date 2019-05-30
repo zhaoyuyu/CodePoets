@@ -10,4 +10,6 @@
 2. [示例教程](https://github.com/zhaoyuyu/CodePoets/blob/master/示例教程.md)
 3. [Props(属性)](https://github.com/zhaoyuyu/CodePoets/blob/master/Props(属性).md)
 
+学习swift
 
++ [swift中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage中文手册.md)
