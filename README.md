@@ -10,10 +10,11 @@
 2. [示例教程](https://github.com/zhaoyuyu/CodePoets/blob/master/示例教程.md)
 3. [Props(属性)](https://github.com/zhaoyuyu/CodePoets/blob/master/Props(属性).md)
 
-iOS锁的种类与使用
-
-+ See [this](https://github.com/zhaoyuyu/CodePoets/blob/master/Intrducing Locks in iOS.md) for details
 
 学习swift
 
 + [swift中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage中文手册.md)
+
+iOS锁的种类
+
++ [如何使用锁? 各种锁的特性？](https://github.com/zhaoyuyu/CodePoets/blob/master/Intrducing%20Locks%20in%20iOS.md)
