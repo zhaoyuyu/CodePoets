@@ -193,4 +193,4 @@ Default~ipad@2x.png   | 1536 × 2048  |
 
 #### 检查并运行你的项目
 
-如果你觉得这篇文章能帮助你解决问题，请给我[star](http://www.baidu.com)!!!
+如果你觉得这篇文章能帮助你解决问题，请给我[star](https://github.com/zhaoyuyu/CodePoets/)!!!
