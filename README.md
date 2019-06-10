@@ -14,4 +14,6 @@ iOS锁的种类与使用
 
 + See [this](https://github.com/zhaoyuyu/CodePoets/blob/master/Intrducing Locks in iOS.md) for details
 
+学习swift
 
++ [swift中文手册](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage中文手册.md)
