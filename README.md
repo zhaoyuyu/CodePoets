@@ -26,3 +26,7 @@
 #### iOS锁的种类
 
 + [如何使用锁? 各种锁的特性？](https://github.com/zhaoyuyu/CodePoets/blob/master/Intrducing%20Locks%20in%20iOS.md)
+
+#### 组件化
+
++ [为什么要组件化？如何组件化？](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/component.md)
