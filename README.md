@@ -29,4 +29,4 @@
 
 #### 组件化
 
-+ [为什么要组件化？如何组件化？](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/component.md)
++ [为什么要组件化？如何组件化？](https://github.com/zhaoyuyu/CodePoets/blob/master/component.md)
