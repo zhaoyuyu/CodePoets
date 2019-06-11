@@ -5,6 +5,7 @@
   - [自学ReactNative的历程](#自学reactnative的历程)        
   - [学习swift](#学习swift)        
   - [iOS锁的种类](#ios锁的种类)
+  - [组件化](#组件化)
 
 ### 最近遇到的问题
 
