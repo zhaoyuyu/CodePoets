@@ -23,3 +23,26 @@
             return res;
         }
     };
+
+#### 反转链表
+
+输入一个链表，反转链表后，输出新链表的表头。
+
+    class Solution {
+    public:
+        ListNode* ReverseList(ListNode* pHead) {
+            ListNode *pNext = NULL;
+            ListNode *pNode = pHead;
+            ListNode *pPrev = NULL;
+            
+            while (pNode != NULL) {
+                pNext = pNode -> next;
+                pNode -> next = pPrev;
+                pPrev = pNode;
+                pNode = pNext;
+            }
+            
+            return pPrev;
+        }
+        
+    };
